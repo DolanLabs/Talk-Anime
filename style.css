@@ -1,0 +1,17 @@
+#body {
+	display: block;
+	text-align: center;
+}
+
+#moulth {
+	position: absolute;
+	top: 40.5%;
+	left: 49.2%;
+	display: block;
+	text-align: center;
+}
+
+#value-submit {
+	position: absolute;
+	top: 50%;
+}
